@@ -1,6 +1,6 @@
 {
-    "host": "database.server.com",
-    "password": "secretpassword",
+    "host": "https://elrrurdafrnonhtwdkqg.supabase.co/",
+    "password": "13821200_Nick45",
     "user": "postgres",
     "database": "postgres",
     "port": 5432
